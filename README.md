@@ -1,6 +1,6 @@
 # visiblity_example
 
-First Scrren :  OnClick of radio Button Text Form Field will Be Visible \n
+First Scrren :  OnClick of radio Button Text Form Field will Be Visible \
 Second Screen :  Password Toggle Button
 
 <img src="https://user-images.githubusercontent.com/55477266/67267089-3ec4c000-f4cf-11e9-98d2-89906dc8c135.png" width="350" height="650">
