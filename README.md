@@ -1,16 +1,8 @@
 # visiblity_example
 
-A new Flutter application.
+1- OnClick of radio Button Text Form Field will Be Visible
+2- Password Toggle Button
 
-## Getting Started
+<img src="https://user-images.githubusercontent.com/55477266/67267089-3ec4c000-f4cf-11e9-98d2-89906dc8c135.png" width="350" height="650">
+<img src="https://user-images.githubusercontent.com/55477266/67267153-5f8d1580-f4cf-11e9-8dd7-fe5374a126f6.png" width="350" height="650">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
